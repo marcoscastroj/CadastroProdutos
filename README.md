@@ -58,4 +58,4 @@ Esse projeto foi criado com o objetivo de praticar:
 
 ## 📎 Autor
 
-Desenvolvido por [Marcos Castro](https://github.com/marcoscastroj) — em processo de aprendizado focado em **Quality Assurance (QA)** e automação de testes.
+Desenvolvido por [Marcos Castro](https://github.com/marcoscastroj) — em processo de aprendizado focado em automação de testes.
